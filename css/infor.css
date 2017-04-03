@@ -142,7 +142,7 @@ em{font-style:normal;}
 .recommend .tabList .tab_ac a{color: #9d5652;}
 .recommend .tabList li{float: left;}
 .recommend .tabList li a{width: 85px;height: 29px;line-height: 29px;text-align: center;display: block;font-size: 14px;color: #9d9d9d; font-weight: bold;}
-.recommend .tabItem{padding-top: 22px;}
+.recommend .tabItem{padding-top: 22px;overflow: hidden;}
 .recommend .hide{display: none;}
 .recommend .tabItem li{float: left;width: 128px;overflow: hidden;margin: 0 36px;text-align: center;}
 .recommend .tabItem li p{font-size: 12px;color: #666666;}
